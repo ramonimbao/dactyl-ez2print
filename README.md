@@ -2,7 +2,7 @@
 
 An easy-to-print ortholinear [dactyl](https://github.com/adereth/dactyl-keyboard)-like keyboard that requires no support! An accompanying blog post can be found [here](https://ramonimbao.github.io/ergodox-easy/).
 
-![Left side 3D printed](images/complete.jpg)
+![Left side 3D printed](images/render.png)
 
 ## Printing
 
